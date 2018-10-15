@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.springframework</groupId>
+	<groupId>com.hendisantika</groupId>
 	<artifactId>spring-rest-service-oauth</artifactId>
 	<version>0.1.0</version>
 	<packaging>war</packaging>
@@ -11,7 +11,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.8.RELEASE</version>
+		<version>1.5.16.RELEASE</version>
 	</parent>
 
 	<properties>
