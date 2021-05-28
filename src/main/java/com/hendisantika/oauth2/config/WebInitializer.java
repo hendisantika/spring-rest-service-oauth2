@@ -2,7 +2,8 @@ package com.hendisantika.oauth2.config;
 
 import com.hendisantika.oauth2.Application;
 import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.boot.web.support.SpringBootServletInitializer;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+
 /**
  * Created by IntelliJ IDEA.
  * Project : spring-rest-service-oauth2
